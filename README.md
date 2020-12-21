@@ -1,1 +1,2 @@
-# c36-with-me
+# synchronousBallMovement
+Ball moving synchronously
